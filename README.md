@@ -1,5 +1,5 @@
 # veridion-data-analyst-challenge
-To pick the best matches, I considered columns B-I as the base information we have for the companies in the list, and began to filter the candidates according to the best matches between company details and candidate details.
+To pick the best matches, I considered columns region -> street number as the base information we have for the companies in the list, and began to filter the candidates according to the best matches between company details and candidate details.
 To filter i used excel formulas:
 - to check if name of the candidate matches with name of the company
 - to check if country of candidate matches with country of the company
